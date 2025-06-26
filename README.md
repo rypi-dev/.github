@@ -7,7 +7,7 @@
 
 ---
 
-![Rypî Background](https://github.com/rypi-dev/.github/raw/branch/main/assets/Background.png)
+![Rypî Background](https://github.com/rypi-dev/.github/blob/main/Background.png)
 
 <!-- explain what is rypi ? and what is rypi development -->
 
