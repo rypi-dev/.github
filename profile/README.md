@@ -1,13 +1,12 @@
 <h1 align="center">
 
-[![Maitained](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)](https://github.com/rypi-dev)
-[![Pull requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/rypi-dev/.github/pulls)
+[![Maitained](https://img.shields.io/maintenance/yes/2025?style=for-the-badge)](https://github.com/rypi-dev)
 
 </h1>
 
----
+<!-- [![Pull requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/rypi-dev/.github/pulls) -->
 
-![Rypî Background](https://github.com/rypi-dev/.github/blob/main/Background.png)
+![Rypî Background](https://github.com/rypi-dev/.github/blob/main/assets/Background.png)
 
 <!-- explain what is rypi ? and what is rypi development -->
 
@@ -27,4 +26,4 @@ Despite some limitations on contributing either as a developer or as an enthusia
 
 ## 🌐 Social network
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/hBvT7k9uWK](https://discord.gg/uQnNHfHFHH))[![Our website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rypi.fr/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](<[https://discord.gg/hBvT7k9uWK](https://discord.gg/uQnNHfHFHH)>)[![Our website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rypi.fr/)
