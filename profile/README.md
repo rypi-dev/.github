@@ -1,28 +1,25 @@
-<h1 align="center">
-
-[![Maitained](https://img.shields.io/maintenance/yes/2025?style=for-the-badge)](https://github.com/rypi-dev)
-
-</h1>
-
-<!-- [![Pull requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/rypi-dev/.github/pulls) -->
-
 ![Rypî Background](https://github.com/rypi-dev/.github/blob/main/assets/Background.png)
 
 <!-- explain what is rypi ? and what is rypi development -->
 
 ## 🗃️ Table of contents
 
+- [Get involved](#get-involved)
 - [Contributing to the ecosystem](#🤝-contributions)
 - [Our social network](#🌐-our-social-network)
 
+## 👨‍🎓 Get involved
+
+At the moment, Habbo servers need open development to build amazing software together, and there are some great “good first question” opportunities if you're looking to get involved.
+
+- [Explore featured projects](https://github.com/orgs/rypi-dev/repositories)
+- Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) and not [contact@rypi.fr](mailto:contact@rypi.fr) to ask questions specific to an individual Rypî repository.
+
 ## 🤝 Contributing to the ecosystem
 
-Many restrictions gets in the way because Rypî Development is private-source for some packages that shouldn't be exposed publicy. Please, take a look at our FAQ to learn more about it.
+However, many restrictions are imposed because Rypî Development is a private source for some packages that should not be exposed publicly. Check out our [FAQ]() for more information.
 
-Despite some limitations on contributing either as a developer or as an enthusiast, your work is valued and your name is mentionned alongside other contributions from other people.
-
-<!-- Setup either a iCLA/CLA license and show the developer the process of signin in -->
-<!-- Contributor registration, formally -->
+Regardless of some contribution constraints, we have opened an [open-source office](https://github.com/rypi-dev/OSPO) in an effort to create a sane development community
 
 ## 🌐 Social network
 
